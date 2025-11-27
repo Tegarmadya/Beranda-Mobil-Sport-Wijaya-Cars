@@ -291,7 +291,7 @@ body {
 
 .banner-left {
     flex: 2;
-    background-image: url("BMW\ M850i.jpg");
+    background-image: url("BMW M850i.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
@@ -526,5 +526,6 @@ body {
     font-size: 14px;
     opacity: 0.6;
 }
+
 
 
